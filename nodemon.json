@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER" : "dbUser",
+        "MONGO_PASSWORD": "dbUser",
+        "MONGO_DB": "node-rest-shop",
+        "JWT_KEY": "secretAccessTokenKey"
+    }
+}
